@@ -1,4 +1,4 @@
-#COURSE:Origin (18);
+#COURSE:LIFE4 - (18) - Origin;
 #BANNER:Origin18.png;
 #BACKGROUND:Origin18.png;
 #METER:Easy:1;
